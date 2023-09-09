@@ -2,5 +2,11 @@
 <h3 align="center">Programming intern, Computer scientist</h3>
 
 <h3>About me:</h3>
-<p> Welcome to the mind-blowing adventure! In this amazing universe I call home, anything is possible and fun is guaranteed. I'm a true tech lover, a fearless explorer of the wonders of robotics and programming. I'm currently working on my Bachelor's degree in Computer Science, but make no mistake... I'm a master of the "amateur gamer" stuff!
-Oh, but don't think I'm just a cloistered geek. I am an adventurer of two worlds: both Linux and Windows are part of my repertoire. I'm a hero without a cape, navigating the virtual oceans in search of challenges and innovations</P>
+<p>I am a Computer Science student and passionate about web development. I currently work as an intern in this area, where I combine my theoretical knowledge with effective practice to create intuitive and engaging interfaces.</P>
+
+<div> 
+  <a href="https://www.instagram.com/carlossrebelo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:rebeloodaniel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/carlosdrebelo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
