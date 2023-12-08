@@ -4,14 +4,14 @@
 ## Linguagens
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cs,react,angular,vue" />
+    <img height="45em" src="https://skillicons.dev/icons?i=html,css,js,ts,c,cs,react,angular,vue" />
   </a>
 </p>
 
 ## Ferramentas de desenvolvimento
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,ps,figma,nodejs" />
+    <img height="45em" src="https://skillicons.dev/icons?i=git,vscode,ps,figma,nodejs" />
   </a>
 </p>
 
