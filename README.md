@@ -1,6 +1,6 @@
 <img src="https://github.com/CarlosRebeloo/CarlosRebeloo/assets/126520995/8738daef-1e8c-4a22-aa5b-2fa1b8571dee" alt="ilustração de um computador e um celular com uma caneca de café" min-width="500px" max-width="500px" width="400px" align="right">
 
-<h1>Olá a todos! Me chamo Carlos</h1>
+<h1  align="center">Olá a todos! Me chamo Carlos</h1>
 <p>Olá! Sou um menino de 20 anos apaixonado pelo mundo do desenvolvimento. Atualmente, estou cursando bacharelado em Ciência da Computação na UNIVALI.
   
 Minha jornada acadêmica é um constante mergulho no universo da tecnologia. Estou empenhado em absorver o máximo de conhecimento possível para crescer como profissional.
