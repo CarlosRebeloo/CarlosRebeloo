@@ -1,12 +1,13 @@
-<img src="https://github.com/CarlosRebeloo/CarlosRebeloo/assets/126520995/8738daef-1e8c-4a22-aa5b-2fa1b8571dee" alt="ilustração de um computador e um celular com uma caneca de café" min-width="500px" max-width="500px" width="400px" align="right">
 <h2 align="center">Olá a todos! Me chamo Carlos :wave:</h2>
-<p>Olá! Sou um menino de 20 anos apaixonado pelo mundo do desenvolvimento. Atualmente, estou cursando bacharelado em Ciência da Computação na UNIVALI.
-  
-Minha jornada acadêmica é um constante mergulho no universo da tecnologia. Estou empenhado em absorver o máximo de conhecimento possível para crescer como profissional.
-  
-  Sou movido por desafios e oportunidades que me impulsionem a aprender e crescer. Estou aberto a colaborações e ideias inspiradoras. Se você busca alguém engajado em fazer a diferença no mundo digital, estou aqui para contribuir!
+<img src="https://github.com/CarlosRebeloo/CarlosRebeloo/assets/126520995/8738daef-1e8c-4a22-aa5b-2fa1b8571dee" alt="ilustração de um computador e um celular com uma caneca de café" min-width="500px" max-width="500px" width="400px" align="right">
 
-Adoro conectar-me com novas pessoas e explorar maneiras de melhorar o mundo digital. Não hesite em entrar em contato comigo. Vamos construir algo incrível juntos!</p>
+<p>Olá! Sou uma pessoa apaixonado por tecnologia. Atualmente, estou cursando bacharelado em Ciência da Computação na UNIVALI e Engenharia de Software na Unicesumar.
+  
+Minha jornada acadêmica é um constante mergulho no universo do desenvolvimento. Estou empenhado em absorver o máximo de conhecimento possível para crescer como profissional.
+  
+  Sou movido por desafios e oportunidades que me impulsionem a aprender e crescer.
+
+Adoro conectar-me com novas pessoas e explorar maneiras de melhorar o mundo digital.</p>
 <h3>:computer: LINGUAGENS</h3>
 <p align="left">
   <a href="https://skillicons.dev">
